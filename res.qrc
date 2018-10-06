@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/deck1.png</file>
+        <file>image/deck2.png</file>
+        <file>image/tower.png</file>
+        <file>image/1L.png</file>
+        <file>image/2L.png</file>
+        <file>image/3L.png</file>
+        <file>image/4L.png</file>
+        <file>image/1R.png</file>
+        <file>image/2R.png</file>
+        <file>image/3R.png</file>
+        <file>image/4R.png</file>
+        <file>image/tower_ai.png</file>
+        <file>image/1_deck.png</file>
+        <file>image/2_deck.png</file>
+        <file>image/4_deck.png</file>
+        <file>image/3_deck.png</file>
+    </qresource>
+</RCC>
